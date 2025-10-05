@@ -1,0 +1,7 @@
+pandas
+pypdf2
+pdfplumber
+groq
+python-dotenv
+pytest
+reportlab
