@@ -256,10 +256,11 @@ MIT
 
 Built for the Agent-as-Coder Challenge by Korefi.
 
-**Author**: [Your Name]  
-**Date**: January 2025  
+**Author**: [Niranjan]  
+**Date**: September 2025  
 **LLM Provider**: Groq (Free Tier)
 
 ---
+
 
 **Note**: This agent uses Groq's free API tier. For production use, consider rate limits and add error handling for API failures.
